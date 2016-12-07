@@ -1,1 +1,20 @@
 /*CSS styling goes here*/
+
+.sticky {
+  background: yellow;
+  height: 150px;
+  width: 150px;
+  display: inline-block;
+  margin: 15px;
+  color: black;
+}
+
+
+body {
+  background-image: url("http://media1.s-nbcnews.com/j/newscms/2016_46/1796241/161114-photo-post-jpo-02_f1212362ba0a3e60b05c9b287700985f.nbcnews-ux-2880-1000.jpg");
+  color: white;
+}
+
+.board {
+  background-color: rgba(0,0,0,.8);
+}
