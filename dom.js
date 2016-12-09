@@ -12,6 +12,7 @@ var countStickies = function(event){
 // var xButton = document.querySelectorAll('.remove');
 var handleXClick = function(event){
   event.target.parentNode.remove();
+  countStickies();
 }
 
 var button = document.querySelector('button');

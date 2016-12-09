@@ -17,6 +17,8 @@ body {
   display: inline-block;
   margin: 15px;
   color: black;
+  /*position: relative;*/
+  overflow: auto;
 }
 
 .writingSection {
